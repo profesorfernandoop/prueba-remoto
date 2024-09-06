@@ -1,2 +1,4 @@
 Hola amigos este es un nuevo archivo
+A partir de aqui puedo cambiar el archivo
+con el editor que quiera y no pasa nada.
 
