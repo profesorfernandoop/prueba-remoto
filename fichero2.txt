@@ -1,2 +1,2 @@
-Este es el fichero2.
-Creado integramente con notepadd++
+Cambio el contenido del fichero2 ahora desde la linea de comandos para
+posteriormente confirmarlo desde vs code.
