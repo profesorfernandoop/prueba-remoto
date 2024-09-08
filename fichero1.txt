@@ -1,4 +1,3 @@
-Hola amigos este es un nuevo archivo
-A partir de aqui puedo cambiar el archivo
-con el editor que quiera y no pasa nada.
+Pues ahora he cambiado todo el contenido para que que practicar con git integrado aqui.
+Esto es lo que voy a hacer por ahora.
 
