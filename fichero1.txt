@@ -1,3 +1,6 @@
 Pues ahora he cambiado todo el contenido para que que practicar con git integrado aqui.
 Esto es lo que voy a hacer por ahora.
+Pues ahora lo que hago es añadir información desde VSCODE.
+Después miraré desde la linea de comandos si lo detecta.
+
 
