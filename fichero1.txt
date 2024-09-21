@@ -4,3 +4,6 @@ Pues ahora lo que hago es añadir información desde VSCODE.
 Después miraré desde la linea de comandos si lo detecta.
 
 Vuelvo a hacer un cambio y miro el git bash a ver si se ve algo.
+
+
+//** Cambios realizados desde mi entorno de desarrollo que voy a validar usando github desktop  **//
