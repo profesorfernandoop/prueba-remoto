@@ -7,3 +7,5 @@ Vuelvo a hacer un cambio y miro el git bash a ver si se ve algo.
 
 
 //** Cambios realizados desde mi entorno de desarrollo que voy a validar usando github desktop  **//
+
+Vuelvo a hacerlo porque el mensaje no lo ha cogido bien
