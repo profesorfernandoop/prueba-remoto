@@ -1,4 +1,3 @@
-Cambiaré el fichero4
-Despueés haré git add para colocarlo en el area de staging
-Despues hare git reset HEAD fichero4.txt y veré si hay diferencia con git restore --stated fichero4.txt
+Voy a probar si githudesktop se entera de cambios hechos directamente en github.com con la opción de edición
+en linea.
 
