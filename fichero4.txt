@@ -1,1 +1,3 @@
-Cambios desde comenzando con Git
+Cambio del fichero4 desde VSCODE trabajando en local.
+Habría que aprobar estos cambios y después subirlos al repositorio compartido.
+
