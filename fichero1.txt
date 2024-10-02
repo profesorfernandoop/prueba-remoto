@@ -10,4 +10,6 @@ Vuelvo a hacer un cambio y miro el git bash a ver si se ve algo.
 
 Vuelvo a hacerlo porque el mensaje no lo ha cogido bien
 
-Un nuevo cambio porque creo que Source Tree no se entera muy bien.
+
+
+Para uso de git diff. Cambio realizado en vscode 2-10-2024 a las 12:23
